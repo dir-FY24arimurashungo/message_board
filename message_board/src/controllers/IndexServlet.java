@@ -9,7 +9,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 import javax.persistence.EntityManager;
 import models.Message;
-import utils.DBUtil;
 
 /**
  * Servlet implementation class IndexServlet
